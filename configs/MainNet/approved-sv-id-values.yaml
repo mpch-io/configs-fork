@@ -46,8 +46,6 @@ approvedSvIdentities:
     extraBeneficiaries:
       - beneficiary: "auth0_007c66f47b4f7dbebab8f2af6967::12204783725aa3adcd787311531134baed8b9b28ccf76b100c62b8d4995842aabd6b" # MPCH
         weight: "10000"
-      - beneficiary: "auth0_007c6747419ddfb5909b9802bba9::1220c75867697df9fc5fed191b34ee931be05aa4b6fcc465927d81c841baa75f2ab5" # LCV
-        weight: "100000"
   - name: Orb-1-LP-1
     publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYSpqOpqB6lWVLfu7ojM/GTSALZK2X1MAKhJoZIJP+G7WkDo0Hap4VZtaSyrKiTqlcKu4ycgJ5UEG1WAkoKYjOA==
     rewardWeightBps: 100000
