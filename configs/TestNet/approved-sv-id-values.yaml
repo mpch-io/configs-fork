@@ -146,3 +146,6 @@ approvedSvIdentities:
   - name: Liberty-City-Ventures-1
     publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzPiiGTxeSKO+HBOekWSXKpAziP2hlRvwdYmbvmL8BwdCBsRZGc5UELlo9rS3DOfhg6/W+oundvzqzsNQKVBb4w==
     rewardWeightBps: 10_0000
+    extraBeneficiaries:
+      - beneficiary: "auth0_007c6807fc720b2e8b237ddf8abc::122013b719b6fb03e83cb287e724f1c6ac94c9012423da33cd5f9d13194177c0dfe2"
+        weight: 10_0000
