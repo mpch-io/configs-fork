@@ -164,6 +164,11 @@ approvedSvIdentities:
   - name: Liberty-City-Ventures-1
     publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQv53m25mctcprUUt3YKg+yJvqtRI+rxTy5alROf4hqCD1rb/w5G8/XPwOI5jFqAj5RTcDGyRz+LLxn28k63UxQ==
     rewardWeightBps: 10_0000
+    extraBeneficiaries:
+      - beneficiary: "auth0_007c684b4b8ad82363a45f6ccbb3::122078c40a05ac97e98209750599560884c916e3c89878d6e5a0df3e708588b7525f"
+        weight: 3_0000
+      - beneficiary: "auth0_007c69ea9fbd1ad8bdd64747b386::122078c40a05ac97e98209750599560884c916e3c89878d6e5a0df3e708588b7525f"
+        weight: 7_0000
   - name: Five-North-1
     publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGe25jhw59y0TXgGkEmWLgCjG9D3yq4GweHzGLQ7cnbNVUqiG/ndXeFLJG1rQy6a+Ky0XfJDdcs8yCvbbsV+qqg==
     rewardWeightBps: 24_0500
