@@ -148,7 +148,7 @@ approvedSvIdentities:
     publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYSpqOpqB6lWVLfu7ojM/GTSALZK2X1MAKhJoZIJP+G7WkDo0Hap4VZtaSyrKiTqlcKu4ycgJ5UEG1WAkoKYjOA==
     rewardWeightBps: 10_0000
     extraBeneficiaries:
-      - beneficiary: "auth0_007c67acae90ab8ef9d344b817b4::12205d4d358e9de3351c74419d9746ea9083854c113f826240fe2b2ce808a51a3a7e" # Nima Capital
+      - beneficiary: "23d169c2-0909-4c70-81d1-1922de6febaa::1220f600a1d304a050cc0060c6cbac95c4b816078c3a53cc600717951407cbd15ae3" # Nima Capital # locking wallet
         weight: 5_0000
       - beneficiary: "auth0_007c6723cbcc5cee3153df57da4d::122039b0120dda65f350bbd22731b636ffe2eb757a4f04bf41a18d689c6e9351633a" # Nima Capital (Lennar)
         weight: 5_0000
