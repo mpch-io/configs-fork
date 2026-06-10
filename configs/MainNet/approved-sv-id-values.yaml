@@ -137,7 +137,9 @@ approvedSvIdentities:
       - beneficiary: "12204::1220416f32818f52ab34cd7cec71a456082510345ad63bd3fc15b6fa9bb95342ca9d" # Lukka CIP-0032 - locking wallet
         weight: 5875
       - beneficiary: "HexTrust-ghost-1::12202639480c7e95ab18e696d83cdaa87cb5b92b935698ae4e69fb9cbfa2808d47ff" # HexTrust CIP-0087 # escrow party_id added to the MPCH-GHOSTvalidator-1
-        weight: 3_0000
+        weight: 2_0000
+      - beneficiary: "HexTrust-SVrewards-1::12209d133c58ab06046413890cf9e82473d72a821fa49f3acd4b15fb7bae3c39aba5" # HexTrust CIP-0087
+        weight: 1_0000
       - beneficiary: "Blockdaemon-ghost-1::12202639480c7e95ab18e696d83cdaa87cb5b92b935698ae4e69fb9cbfa2808d47ff" # Blockdaemon CIP-0094 # escrow party_id added to the MPCH-GHOSTvalidator-1
         weight: "50000"
       - beneficiary: "Tharimmune-ghost-1::12202639480c7e95ab18e696d83cdaa87cb5b92b935698ae4e69fb9cbfa2808d47ff" # Tharimmune/CSH, Inc. CIP-0102 # escrow party_id added to the MPCH-GHOSTvalidator-1
