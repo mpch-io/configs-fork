@@ -100,7 +100,7 @@ approvedSvIdentities:
         weight: 8_0000
   - name: MPC-Holding-Inc
     publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOxCYWSBB4hDz7O1XxJ3xswKXxJcQqsgyzBTbWjkwa+ILYXy8T2vtVMoZ+tC/Ykdp3MyFwcMIP1kzcDKCSp0qow==
-    rewardWeightBps: 35_0000
+    rewardWeightBps: 45_0000
     extraBeneficiaries:
       - beneficiary: "auth0_007c66f44bc7589a682afe95a21d::12200a154afee0ada3b0cc9139e4356187d8c62747f2a9584b1893a47280f31a5ce1" # MPCH
         weight: 3000
